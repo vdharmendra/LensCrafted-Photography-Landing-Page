@@ -25,13 +25,27 @@
   <li>desgin in Abode XD</li>
 </ul>
 <br>
-<span>Desktop Desgin</span><br/>
-<a href="https://www.behance.net/gallery/212133257/Grind-Coffee-Grind-Coffee-Landing-Page" target="_blank" >
-<img src="./img/school--backpack-landing-page.gif" width="575px"/>
+<span>Desktop-Laptop Desgin</span><br/>
+<a href="https://www.behance.net/gallery/212800153/LensCrafted-Photography-Campaign-Landing-Page" target="_blank" >
+<img src="./img/desktop-laptop-landing-page.gif" width="575px"/>
+</a><br/>
+<span>Tablet-Mobile Desgin</span><br/>
+<a href="https://www.behance.net/gallery/212800153/LensCrafted-Photography-Campaign-Landing-Page" target="_blank" >
+<img src="./img/tablet-mobile-landing-page.gif" width="575px"/>
+</a><br />
+<span>Tablet-Mobile Desgin</span><br/>
+<a href="https://www.behance.net/gallery/212800153/LensCrafted-Photography-Campaign-Landing-Page" target="_blank" >
+<img src="./img/desktop-laptop-design.png" width="575px"/>
+</a><br/>
+<span>Tablet Desgin</span><br/>
+<a href="https://www.behance.net/gallery/212800153/LensCrafted-Photography-Campaign-Landing-Page" target="_blank" >
+<img src="./img/tablet-design.png" width="575px"/>
+</a><br/>
+<span>Mobile Desgin</span><br/>
+<a href="https://www.behance.net/gallery/212800153/LensCrafted-Photography-Campaign-Landing-Page" target="_blank" >
+<img src="./img/mobile-design.png" width="575px"/>
 </a>
-<a href="https://www.behance.net/gallery/212133257/Grind-Coffee-Grind-Coffee-Landing-Page" target="_blank" >
-<img src="./img/cover.png" width="575px"/>
-</a>
+
 
 
 
